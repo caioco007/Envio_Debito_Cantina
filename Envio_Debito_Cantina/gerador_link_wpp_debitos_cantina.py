@@ -20,7 +20,7 @@ def criar_link(numero, nome, valor, chave_pix):
 df = pd.read_csv('debitos.csv', delimiter=',')
 
 # Definir a chave PIX
-chave_pix = "27993092446"
+chave_pix = "999999999"
 
 # Iterar sobre as linhas do dataframe e criar os links
 links = []
